@@ -1,0 +1,8 @@
+#conteudo {
+    min-width: 500px;
+    min-height: 20px;
+    height: 100px;
+    background-color: green;
+    color: #FFFF;
+    padding: 20px;
+}

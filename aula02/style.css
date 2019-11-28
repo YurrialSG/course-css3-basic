@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+}
+
+p {
+    color: green;
+    font-size: 12px;
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 35px;
+    border: none;
+    background-color: #ccc;
+}
+
+input[name="email"] {
+    width: 200px;
+    height: 35px;
+    border: none;
+    background-color: #ccc;
+}
+
+input[type="submit"] {
+    width: 50px;
+    height: 35px;
+    border: none;
+    cursor: pointer;
+    color: #FFFF;
+    background-color: green;
+}
